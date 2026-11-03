@@ -4,7 +4,9 @@
 |---|---|
 | [![Exoskeleton demo](docs/exoskeleton.gif)](videos/exoskeleton.mp4) | [![Kitchen fetch demo](docs/kitchen_fetch.gif)](videos/kitchen_fetch.mp4) |
 
-Click a preview to open the full video with sound-free playback controls.
+Click a preview to open the full video.
+
+**Presentation:** https://claude.ai/artifact/7YkZUFVyCNvk5HtVXgTJhF
 
 We asked whether an open LLM can tell, from 4 seconds of scalp EEG, whether a person imagined squeezing their left or right fist. We tested the person-independent case: the model never saw the test people. We measured the stock model, fine-tuned it with LoRA, then wrapped it in a harness that gives it a classic EEG decoder as a tool. Every system was scored on the same 144 held-out trials and checked with two statistical tests.
 

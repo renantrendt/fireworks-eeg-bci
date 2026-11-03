@@ -1,5 +1,11 @@
 # Decoding imagined hand movement from EEG with an open model on Fireworks
 
+| Exoskeleton: imagined fist moves the cup | Kitchen robot: fetches water from the fridge |
+|---|---|
+| [![Exoskeleton demo](docs/exoskeleton.gif)](videos/exoskeleton.mp4) | [![Kitchen fetch demo](docs/kitchen_fetch.gif)](videos/kitchen_fetch.mp4) |
+
+Click a preview to open the full video with sound-free playback controls.
+
 We asked whether an open LLM can tell, from 4 seconds of scalp EEG, whether a person imagined squeezing their left or right fist. We tested the person-independent case: the model never saw the test people. We measured the stock model, fine-tuned it with LoRA, then wrapped it in a harness that gives it a classic EEG decoder as a tool. Every system was scored on the same 144 held-out trials and checked with two statistical tests.
 
 **Headline:** the LLM cannot read the brain signal itself. Stock `glm-5p3-flash` scores **52.8%** and the LoRA fine-tune **51.4%**, both at chance and both answering LEFT about 80% of the time. Given the classic decoder (CSP+LDA) as a tool, the same stock model scores **62.5%** with no training, against **63.2%** for the decoder alone. The LLM adds control, not accuracy, and costs about 0.6 seconds per decision.

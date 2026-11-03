@@ -10,7 +10,7 @@ Click a preview to open the full video.
 
 We asked whether an open LLM can tell, from 4 seconds of scalp EEG, whether a person imagined squeezing their left or right fist. We tested the person-independent case: the model never saw the test people. We measured the stock model, fine-tuned it with LoRA, then wrapped it in a harness that gives it a classic EEG decoder as a tool. Every system was scored on the same 144 held-out trials and checked with two statistical tests.
 
-**Headline:** the LLM cannot read the brain signal itself. Stock `glm-5p3-flash` scores **52.8%** and the LoRA fine-tune **51.4%**, both at chance and both answering LEFT about 80% of the time. Given the classic decoder (CSP+LDA) as a tool, the same stock model scores **62.5%** with no training, against **63.2%** for the decoder alone. The LLM adds control, not accuracy, and costs about 0.6 seconds per decision.
+**Headline:** the LLM cannot read the brain signal itself. Stock `glm-5p3-flash` scores **52.8%** and the LoRA fine-tune **51.4%**, both at chance and both answering LEFT about 80% of the time. A stronger model does not help: Claude Fable 5.1, zero-shot, scores **54.2%**. Given the classic decoder (CSP+LDA) as a tool, the same stock model scores **62.5%** with no training, against **63.2%** for the decoder alone. The LLM adds control, not accuracy, and costs about 0.6 seconds per decision.
 
 ![Accuracy of every system on 144 held-out trials](docs/headline.png)
 
@@ -119,12 +119,15 @@ Both jobs completed, but the adapters were not callable before the deadline ("mo
 | System | Accuracy | 95% bootstrap range | Answers LEFT | Above chance (binomial p) |
 |---|---|---|---|---|
 | Stock LLM | 52.8% (76/144) | 44.4–61.1% | 85% | 0.28 |
+| Claude Fable 5.1, zero-shot† | 54.2% (78/144) | — | 50% | 0.18 |
 | LoRA fine-tune | 51.4% (74/144)* | 43.1–59.7% | 81% | 0.40 |
 | Stock LLM + score in prompt | 56.9% (82/144) | 48.6–65.3% | 81% | 0.057 |
 | **Stock LLM + decoder tool (harness)** | **62.5% (90/144)** | 54.2–70.1% | 65% | 0.002 |
 | CSP+LDA alone | 63.2% (91/144) | 54.9–70.8% | 66% | 0.001 |
 
 \* Two scoring runs of the same fine-tune gave 50.0% and 51.4%; the gap is run-to-run noise.
+
+† `claude-fable-5-1` (low thinking), not trained, run once. Unlike the GLM rows, it saw all 144 trials in one prompt and answered them together, so it is not a strict per-trial comparison. It split its answers 72 LEFT / 72 RIGHT; per person it scored 14–24 of 36. No bootstrap was run for this row.
 
 ### Is each step real?
 

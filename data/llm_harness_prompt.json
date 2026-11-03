@@ -1,0 +1,2779 @@
+{
+ "model": "accounts/fireworks/models/glm-5p3-flash",
+ "acc": 0.5694444444444444,
+ "rows": [
+  {
+   "id": "S101R04_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R04_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R04_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 168,
+    "completion_tokens": 20,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 17
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 17
+    }
+   }
+  },
+  {
+   "id": "S101R04_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 156,
+    "completion_tokens": 8,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 5
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 5
+    }
+   }
+  },
+  {
+   "id": "S101R04_4",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 156,
+    "completion_tokens": 8,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 5
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 5
+    }
+   }
+  },
+  {
+   "id": "S101R04_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 164,
+    "completion_tokens": 16,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 13
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 13
+    }
+   }
+  },
+  {
+   "id": "S101R04_6",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 164,
+    "completion_tokens": 16,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 13
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 13
+    }
+   }
+  },
+  {
+   "id": "S101R04_7",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R04_8",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R04_9",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 9,
+    "total_tokens": 157,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 6,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R04_10",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R04_11",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R08_0",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_1",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_2",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_3",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_4",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R08_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R08_8",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_9",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_10",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 16,
+    "total_tokens": 164,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 13,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_11",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R12_2",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 167,
+    "completion_tokens": 19,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 16
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 16
+    }
+   }
+  },
+  {
+   "id": "S101R12_3",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_4",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_6",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_7",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_8",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_9",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_10",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R12_11",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R04_0",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R04_1",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R04_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R04_4",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "**RIGHT**\n\nTHE LINEAR DECODER SCORE IS POSITIVE (+0.52), INDICATING RIGHT. THE UNIFORMLY NEGATIVE CSP Z-SCORES ARE CONSISTENT WITH A BILATERAL MU/BETA DESYNCHRONIZATION PATTERN BUT THEIR SIGN CONVENTION ISN'T DEFINED HERE, SO THE EXPLICITLY LABELED DECODER OUTPUT IS THE RELIABLE CUE.",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 317,
+    "completion_tokens": 169,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 112
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 112
+    }
+   }
+  },
+  {
+   "id": "S102R04_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R04_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R04_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_9",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R04_10",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_11",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nTHE DECODER SCORE IS ONLY WEAKLY POSITIVE (+0.22), WHILE ALL SIX CSP COMPONENTS SHOW STRONG NEGATIVE LOG-VARIANCE Z-SCORES (\u22121.88 TO \u22122.70), A CONSISTENT LEFT-HEMISPHERE MOTOR IMAGERY PATTERN THAT OUTWEIGHS THE WEAK LINEAR DECODER VOTE.",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 78,
+    "total_tokens": 226,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 17,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_0",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_1",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 169,
+    "completion_tokens": 21,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 18
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 18
+    }
+   }
+  },
+  {
+   "id": "S102R08_4",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_5",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R08_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 20,
+    "total_tokens": 168,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 17,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nTHE CSP LOG-VARIANCE FEATURES ARE ALL STRONGLY NEGATIVE (CONSISTENT LEFT-HEMISPHERE MOTOR IMAGERY PATTERN), WHICH OUTWEIGHS THE WEAKLY POSITIVE (+0.59) DECODER SCORE FROM THE CROSS-SUBJECT LINEAR MODEL.",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 68,
+    "total_tokens": 216,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 21,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_10",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_11",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nALL SIX CSP COMPONENTS ARE STRONGLY NEGATIVE (CONSISTENT LEFT-HEMISPHERE MOTOR IMAGERY PATTERN), WHICH OUTWEIGHS THE WEAKLY POSITIVE DECODER SCORE OF +0.16, WHICH IS NEAR CHANCE.",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 65,
+    "total_tokens": 213,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 23,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_2",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_3",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 203,
+    "completion_tokens": 55,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 52
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 52
+    }
+   }
+  },
+  {
+   "id": "S102R12_4",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_7",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R12_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R12_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 17,
+    "total_tokens": 165,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 14,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_10",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 168,
+    "completion_tokens": 20,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 17
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 17
+    }
+   }
+  },
+  {
+   "id": "S102R12_11",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nALL SIX CSP COMPONENTS ARE STRONGLY NEGATIVE (Z-SCORES FROM \u22121.64 TO \u22122.38), INDICATING A CONSISTENT LEFT-HAND MOTOR IMAGERY PATTERN. THE LINEAR DECODER'S POSITIVE SCORE (+0.36) IS WEAK AND LIKELY REFLECTS POOR GENERALIZATION ACROSS SUBJECTS \u2014 THE CSP EVIDENCE DOMINATES HERE.",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 80,
+    "total_tokens": 228,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 16,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_0",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "**RIGHT**",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 36,
+    "total_tokens": 184,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 31,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_1",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_2",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R04_4",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_7",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_10",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_11",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_0",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_1",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R08_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_4",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R08_5",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R08_6",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R08_7",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R08_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R08_10",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_11",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R12_0",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_1",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_2",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_3",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_4",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_6",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_7",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 151,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R12_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_10",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_11",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_3",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 8,
+    "total_tokens": 156,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 5,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_4",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 8,
+    "total_tokens": 156,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 5,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 290,
+    "completion_tokens": 142,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 139
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 139
+    }
+   }
+  },
+  {
+   "id": "S104R04_6",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_7",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_9",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 182,
+    "completion_tokens": 34,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 31
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 31
+    }
+   }
+  },
+  {
+   "id": "S104R04_10",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_11",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 180,
+    "completion_tokens": 32,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 29
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 29
+    }
+   }
+  },
+  {
+   "id": "S104R08_3",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 8,
+    "total_tokens": 156,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 5,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_4",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_5",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_6",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 8,
+    "total_tokens": 156,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 5,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_9",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 15,
+    "total_tokens": 163,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 12,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_10",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_11",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_2",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 175,
+    "completion_tokens": 27,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 24
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 24
+    }
+   }
+  },
+  {
+   "id": "S104R12_3",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_4",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_5",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 166,
+    "completion_tokens": 18,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 15
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 15
+    }
+   }
+  },
+  {
+   "id": "S104R12_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_7",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 8,
+    "total_tokens": 156,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 5,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_8",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 8,
+    "total_tokens": 156,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 5,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_9",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "total_tokens": 191,
+    "completion_tokens": 43,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 40
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 40
+    }
+   }
+  },
+  {
+   "id": "S104R12_10",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 17,
+    "total_tokens": 165,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 14,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_11",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 3,
+    "total_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 0,
+     "rejected_prediction_tokens": null
+    }
+   }
+  }
+ ]
+}

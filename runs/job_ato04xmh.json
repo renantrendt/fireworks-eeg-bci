@@ -1,0 +1,83 @@
+{
+ "awsS3Config": null,
+ "azureBlobStorageConfig": null,
+ "baseModel": "accounts/fireworks/models/glm-5p3-flash",
+ "batchSize": 0,
+ "batchSizeSamples": 0,
+ "completedTime": "2026-11-03T00:24:33.567269Z",
+ "createTime": "2026-11-03T00:11:33.346613Z",
+ "createdBy": "",
+ "dataset": "accounts/renan-ym76yzx07ofs/datasets/eeg-distill-300",
+ "displayName": "",
+ "earlyStop": false,
+ "encryptionState": "ENCRYPTION_STATE_PLAINTEXT",
+ "epochs": 6,
+ "estimatedCost": {
+  "currencyCode": "USD",
+  "nanos": 645999908,
+  "units": "2"
+ },
+ "evalAutoCarveout": false,
+ "evaluationDataset": "",
+ "generationEval": false,
+ "generationEvalSignedUrl": "",
+ "gradientAccumulationSteps": 0,
+ "isTurbo": false,
+ "jinjaTemplate": "",
+ "jobProgress": {
+  "cachedInputTokenCount": 0,
+  "epoch": 0,
+  "failedRequests": 0,
+  "inputTokens": 0,
+  "lengthCappedRequests": 0,
+  "outputRows": 0,
+  "outputTokens": 0,
+  "percent": 100,
+  "successfullyProcessedRequests": 0,
+  "totalInputRequests": 0,
+  "totalProcessedRequests": 0
+ },
+ "learningRate": 0.0002,
+ "learningRateWarmupSteps": 0,
+ "loraAlpha": 0,
+ "loraRank": 8,
+ "lrScheduler": null,
+ "maxContextLength": 0,
+ "metricsFileSignedUrl": "",
+ "mtpEnabled": false,
+ "mtpFreezeBaseModel": false,
+ "mtpNumDraftTokens": 0,
+ "name": "accounts/renan-ym76yzx07ofs/supervisedFineTuningJobs/ato04xmh",
+ "optimizerWeightDecay": 0,
+ "outputModel": "accounts/renan-ym76yzx07ofs/models/eeg-distill-glm53",
+ "purpose": "PURPOSE_UNSPECIFIED",
+ "renderSamplesSignedUrl": "",
+ "rendererHuggingFaceRepoId": "zai-org/GLM-5.3-Flash",
+ "reservationTarget": "",
+ "state": "JOB_STATE_COMPLETED",
+ "stateTimestamps": [
+  {
+   "state": "JOB_STATE_PENDING",
+   "transitionTime": "2026-11-03T00:11:33.139699494Z"
+  },
+  {
+   "state": "JOB_STATE_RUNNING",
+   "transitionTime": "2026-11-03T00:11:33.387912806Z"
+  },
+  {
+   "state": "JOB_STATE_COMPLETED",
+   "transitionTime": "2026-11-03T00:24:33.567274479Z"
+  }
+ ],
+ "status": {
+  "code": "OK",
+  "message": "Training completed"
+ },
+ "thinkingTraceHistoryMode": "THINKING_TRACE_HISTORY_MODE_UNSPECIFIED",
+ "trainerLogsSignedUrl": "",
+ "tuneVisionEncoder": false,
+ "updateTime": "2026-11-03T00:24:33.569196Z",
+ "useReservation": false,
+ "wandbConfig": null,
+ "warmStartFrom": ""
+}

@@ -1,0 +1,2787 @@
+{
+ "model": "accounts/fireworks/models/glm-5p3-flash",
+ "acc": 0.5277777777777778,
+ "rows": [
+  {
+   "id": "S101R04_0",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 68,
+    "total_tokens": 213,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 65,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R04_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nTHE COMPONENTS 1\u20133 (WHICH RISE TOGETHER FOR ONE HAND) SHOW A STRONGER COMBINED ACTIVATION (SUM \u2248 +4.20) THAN COMPONENTS 4\u20136 (SUM \u2248 +3.56), SO THE PATTERN CORRESPONDS TO THE FIRST CLASS \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 177,
+    "total_tokens": 322,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 116,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R04_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE LEFT-HAND GROUP) SHOW CONSISTENTLY HIGHER Z-SCORES (+1.27, +1.31, +1.40) THAN COMPONENTS 4\u20136 (+1.18, +1.13, +1.28), INDICATING THE IMAGINED LEFT-FIST SQUEEZE.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 144,
+    "total_tokens": 289,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 78,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R04_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE GROUP THAT RISES WITH ONE HAND) SHOW THE SLIGHTLY HIGHER LOG-VARIANCES (MEAN Z \u2248 1.29 VS \u2248 1.28), INDICATING THE IMAGINED FIST SQUEEZE WAS THE HAND ASSOCIATED WITH COMPONENTS 1\u20133 \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 440,
+    "completion_tokens": 295,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 232
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 232
+    }
+   }
+  },
+  {
+   "id": "S101R04_4",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (WHICH RISE WITH ONE HAND) SHOW SLIGHTLY HIGHER OVERALL LOG-VARIANCE (SUM \u2248 3.71) THAN COMPONENTS 4\u20136 (SUM \u2248 3.67), WITH COMPONENT 3 (+1.30) EXCEEDING ITS COUNTERPART COMPONENT 6 (+1.44 BEING THE EXCEPTION, BUT THE 1\u20133 GROUP IS MORE CONSISTENTLY ELEVATED). UNDER THE STANDARD CSP CONVENTION WHERE THE FIRST COMPONENTS INDEX THE ACTIVE HAND, THIS PATTERN INDICATES A **LEFT** FIST IMAGINATION.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 211,
+    "total_tokens": 356,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 104,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R04_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 230,
+    "completion_tokens": 85,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 82
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 82
+    }
+   }
+  },
+  {
+   "id": "S101R04_6",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "**RIGHT**\n\nCOMPONENTS 4\u20136 (ESPECIALLY COMPONENT 6 AT +1.54) SHOW THE STRONGEST ACTIVATION, INDICATING THE HAND ASSOCIATED WITH THAT GROUP \u2014 THE RIGHT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 132,
+    "total_tokens": 277,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 94,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R04_7",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"ONE HAND\" GROUP) SHOW CONSISTENTLY HIGHER LOG-VARIANCE (MEAN \u2248 +1.32) THAN COMPONENTS 4\u20136 (MEAN \u2248 +1.21), INDICATING THE IMAGINED FIST SQUEEZE WAS THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 169,
+    "total_tokens": 314,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 111,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R04_8",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nTHE FIRST THREE COMPONENTS (SUM \u2248 +3.77) ARE MORE ACTIVE THAN COMPONENTS 4\u20136 (SUM \u2248 +3.32), INDICATING THE HAND ASSOCIATED WITH COMPONENTS 1\u20133 \u2014 THE LEFT FIST.",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 322,
+    "completion_tokens": 177,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 126
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 126
+    }
+   }
+  },
+  {
+   "id": "S101R04_9",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 220,
+    "completion_tokens": 75,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 72
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 72
+    }
+   }
+  },
+  {
+   "id": "S101R04_10",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "**RIGHT** \u2014 COMPONENTS 4\u20136 (SUM \u2248 3.44) SHOW SLIGHTLY HIGHER LOG-VARIANCE THAN COMPONENTS 1\u20133 (SUM \u2248 3.30), INDICATING THE HAND ASSOCIATED WITH THOSE COMPONENTS WAS IMAGINED.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 198,
+    "total_tokens": 343,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 147,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R04_11",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 99,
+    "total_tokens": 244,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 96,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_0",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 77,
+    "total_tokens": 222,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 74,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_1",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (AVG Z \u2248 +1.08) SHOW CONSISTENTLY HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (AVG Z \u2248 +0.96), INDICATING THE 1\u20133 GROUP IS ACTIVE \u2014 CORRESPONDING TO THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 145,
+    "total_tokens": 290,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 87,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_2",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 249,
+    "completion_tokens": 104,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 101
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 101
+    }
+   }
+  },
+  {
+   "id": "S101R08_3",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT** \u2014 COMPONENTS 1\u20133 (SUM \u2248 3.68) SLIGHTLY EXCEED COMPONENTS 4\u20136 (SUM \u2248 3.51).",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 67,
+    "total_tokens": 212,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 31,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_4",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 275,
+    "completion_tokens": 130,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 127
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 127
+    }
+   }
+  },
+  {
+   "id": "S101R08_5",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "**RIGHT** \u2014 COMPONENTS 4\u20136 (SUM \u2248 3.39) ARE SLIGHTLY MORE ACTIVE THAN COMPONENTS 1\u20133 (SUM \u2248 3.25), INDICATING THE HAND ASSOCIATED WITH THOSE COMPONENTS.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 170,
+    "total_tokens": 315,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 123,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"ONE HAND\" GROUP) SHOW A SLIGHTLY HIGHER COMBINED LOG-VARIANCE (SUM \u2248 3.21) THAN COMPONENTS 4\u20136 (SUM \u2248 3.11), SO THE PATTERN MATCHES THE CLASS ASSOCIATED WITH COMPONENTS 1\u20133 \u2014 LEFT.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 126,
+    "total_tokens": 271,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 60,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 226,
+    "completion_tokens": 81,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 78
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 78
+    }
+   }
+  },
+  {
+   "id": "S101R08_8",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nTHE FIRST THREE COMPONENTS (SUM \u2248 +3.56) SHOW HIGHER ACTIVATION THAN COMPONENTS 4\u20136 (SUM \u2248 +3.20), INDICATING THE HAND ASSOCIATED WITH COMPONENTS 1\u20133 WAS IMAGINED.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 116,
+    "total_tokens": 261,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 67,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_9",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 75,
+    "total_tokens": 220,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 72,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_10",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"ONE HAND\" GROUP) SUM TO +3.29 VS. +3.27 FOR COMPONENTS 4\u20136 \u2014 A RAZOR-THIN MARGIN, BUT THE FIRST GROUP EDGES IT OUT, INDICATING LEFT-HAND MOTOR IMAGERY.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 137,
+    "total_tokens": 282,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 80,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R08_11",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"ONE HAND\" GROUP) SHOW A COMBINED LOG-VARIANCE OF +3.77, EXCEEDING COMPONENTS 4\u20136 (+3.38), INDICATING THE IMAGINED FIST SQUEEZE WAS THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 100,
+    "total_tokens": 245,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 49,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"LEFT-HAND\" GROUP) SHOW A STRONGER COMBINED RISE (SUM \u2248 +3.13) THAN COMPONENTS 4\u20136 (SUM \u2248 +2.51), INDICATING LEFT-HAND MOTOR IMAGERY.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 126,
+    "total_tokens": 271,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 73,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 100,
+    "total_tokens": 245,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 97,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_2",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 33,
+    "total_tokens": 178,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 30,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_3",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 68,
+    "total_tokens": 213,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 65,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_4",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"ONE HAND\" GROUP) SHOW CLEARLY ELEVATED LOG-VARIANCE (+1.21, +0.55, +1.00) COMPARED TO COMPONENTS 4\u20136 (~0.8), INDICATING THE CLASS-1 HAND WAS ENGAGED \u2014 LEFT.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 151,
+    "total_tokens": 296,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 89,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 SHOW CLEARLY ELEVATED LOG-VARIANCE (+1.58, +0.73, +1.19) COMPARED TO COMPONENTS 4\u20136 (+0.68, +0.60, +0.95), INDICATING THE PATTERN ASSOCIATED WITH THE FIRST HAND CLASS \u2014 LEFT.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 91,
+    "total_tokens": 236,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 26,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_6",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "**RIGHT**\n\nTHE FIRST THREE COMPONENTS (MEAN Z \u2248 +0.91) SHOW SLIGHTLY STRONGER ACTIVATION THAN COMPONENTS 4\u20136 (MEAN Z \u2248 +0.84), INDICATING THE IMAGERY PATTERN ASSOCIATED WITH THE RIGHT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 144,
+    "total_tokens": 289,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 95,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S101R12_7",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 233,
+    "completion_tokens": 88,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 85
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 85
+    }
+   }
+  },
+  {
+   "id": "S101R12_8",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 275,
+    "completion_tokens": 130,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 127
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 127
+    }
+   }
+  },
+  {
+   "id": "S101R12_9",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 253,
+    "completion_tokens": 108,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 105
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 105
+    }
+   }
+  },
+  {
+   "id": "S101R12_10",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 232,
+    "completion_tokens": 87,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 84
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 84
+    }
+   }
+  },
+  {
+   "id": "S101R12_11",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nTHE HIGH-VARIANCE PATTERN IS DOMINATED BY COMPONENTS 1\u20133 (SUM \u2248 +3.05 VS. \u2248 +2.14 FOR COMPONENTS 4\u20136), AND IN STANDARD CSP LABELING THOSE COMPONENTS CORRESPOND TO THE LEFT-HAND IMAGERY CLASS.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 146,
+    "total_tokens": 291,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 90,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R04_0",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (WHICH RISE WITH ONE HAND) HAVE HIGHER LOG-VARIANCES (\u22121.96 TO \u22122.43) THAN COMPONENTS 4\u20136 (\u22122.45 TO \u22122.52), INDICATING THE CLASS REPRESENTED BY COMPONENTS 1\u20133 \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 117,
+    "total_tokens": 262,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 52,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R04_1",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 100,
+    "total_tokens": 245,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 97,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R04_2",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 290,
+    "completion_tokens": 145,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 142
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 142
+    }
+   }
+  },
+  {
+   "id": "S102R04_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (Z \u2248 \u22122.0) SHOW CLEARLY HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (Z \u2248 \u22122.35), INDICATING THE HAND ASSOCIATED WITH COMPONENTS 1\u20133 WAS ENGAGED IN THE MOTOR IMAGERY.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 174,
+    "total_tokens": 319,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 117,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R04_4",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "**RIGHT**\n\nCOMPONENTS 4\u20136 (THE GROUP THAT RISES WITH THE OPPOSITE HAND) SHOW CONSISTENTLY HIGHER LOG-VARIANCES (\u22122.62, \u22122.33, \u22122.24) THAN COMPONENTS 1\u20133 (\u22122.44, \u22121.81, \u22122.07), INDICATING THE 1\u20133 HAND WAS SUPPRESSED \u2014 SO THE IMAGINED SQUEEZE WAS WITH THE RIGHT FIST.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 182,
+    "total_tokens": 327,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 98,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R04_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (\u22121.93, \u22121.95, \u22121.85) SHOW CLEARLY HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (\u22122.33, \u22122.29, \u22122.27), INDICATING THE PATTERN ASSOCIATED WITH COMPONENTS 1\u20133 \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 119,
+    "total_tokens": 264,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 50,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R04_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 237,
+    "completion_tokens": 92,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 89
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 89
+    }
+   }
+  },
+  {
+   "id": "S102R04_7",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 265,
+    "completion_tokens": 120,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 117
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 117
+    }
+   }
+  },
+  {
+   "id": "S102R04_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"ONE HAND\" GROUP) SHOW CLEARLY HIGHER LOG-VARIANCE Z-SCORES (\u2248 \u22121.7) THAN COMPONENTS 4\u20136 (\u2248 \u22122.3), INDICATING STRONG DESYNCHRONIZATION SUPPRESSION IN THE 4\u20136 GROUP AND ACTIVATION CONSISTENT WITH THE CLASS REPRESENTED BY COMPONENTS 1\u20133 \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 149,
+    "total_tokens": 294,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 72,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R04_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (Z-SUM \u2248 \u22126.38) SHOW HIGHER VARIANCE THAN COMPONENTS 4\u20136 (\u2248 \u22126.79), INDICATING THE HAND ASSOCIATED WITH THE FIRST CSP FILTER SET \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 133,
+    "total_tokens": 278,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 82,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R04_10",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 248,
+    "completion_tokens": 103,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 100
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 100
+    }
+   }
+  },
+  {
+   "id": "S102R04_11",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT** \u2014 COMPONENTS 1\u20133 (THE GROUP THAT RISES WITH THE LEFT HAND) SHOW HIGHER LOG-VARIANCE (MEAN \u2248 \u22122.11) THAN COMPONENTS 4\u20136 (MEAN \u2248 \u22122.24), INDICATING STRONGER DESYNCHRONIZATION IN THE LEFT-HAND PATTERN.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 143,
+    "total_tokens": 288,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 83,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_0",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"RISE\" GROUP) SHOW CLEARLY HIGHER LOG-VARIANCES (\u2248 \u22122.36 TO \u22122.43) THAN COMPONENTS 4\u20136, WHICH INCLUDE THE STRONGLY SUPPRESSED COMPONENT 4 (\u22122.84). SINCE COMPONENTS 1\u20133 ARE THE ONES RISING, AND BY CONVENTION THAT FIRST CSP CLASS CORRESPONDS TO THE LEFT HAND, THE IMAGINED FIST SQUEEZE IS **LEFT**.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 146,
+    "total_tokens": 291,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 57,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_1",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (Z \u2248 \u22121.9) SHOW CLEARLY HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (Z \u2248 \u22122.4), INDICATING THE HAND ASSOCIATED WITH COMPONENTS 1\u20133 \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 123,
+    "total_tokens": 268,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 68,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 68,
+    "total_tokens": 213,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 65,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (MEAN \u2248 \u22121.92) ARE CLEARLY MORE ACTIVE THAN COMPONENTS 4\u20136 (MEAN \u2248 \u22122.28), SO THE TRIAL CORRESPONDS TO THE HAND ASSOCIATED WITH COMPONENTS 1\u20133 \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 145,
+    "total_tokens": 290,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 88,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_4",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"LEFT\" GROUP) SHOW CONSISTENTLY HIGHER LOG-VARIANCES (\u2248 \u22121.93 TO \u22122.29) THAN COMPONENTS 4\u20136 (\u2248 \u22122.03 TO \u22122.72), INDICATING STRONGER DESYNCHRONIZATION/SIGNAL IN THE LEFT-HAND PATTERN GROUP.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 163,
+    "total_tokens": 308,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 97,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_5",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nTHE FIRST CSP GROUP (COMPONENTS 1\u20133, SUM \u2248 \u22125.67) SHOWS HIGHER LOG-VARIANCE THAN THE SECOND GROUP (COMPONENTS 4\u20136, SUM \u2248 \u22126.19), INDICATING THE FIRST CLASS \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 134,
+    "total_tokens": 279,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 77,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (Z \u2248 \u22122.0 TO \u22122.2) SHOW CLEARLY HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (Z \u2248 \u22122.2 TO \u22122.8), INDICATING THE HAND ASSOCIATED WITH COMPONENTS 1\u20133 WAS THE IMAGINED ONE \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 179,
+    "total_tokens": 324,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 110,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (Z \u2248 \u22122.15, \u22121.72, \u22121.74) SHOW HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (\u2248 \u22122.53, \u22121.83, \u22121.96), INDICATING THE 1\u20133 GROUP IS THE ACTIVE PATTERN. SINCE COMPONENTS 1\u20133 CORRESPOND TO THE FIRST CLASS (LEFT HAND), THE IMAGINED SQUEEZE WAS THE **LEFT** FIST.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 196,
+    "total_tokens": 341,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 102,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 94,
+    "total_tokens": 239,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 91,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_9",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "**RIGHT**\n\nCOMPONENTS 1\u20133 (Z \u2248 \u22122.25, \u22121.79, \u22122.12) SHOW HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (\u2248 \u22122.53, \u22121.92, \u22122.45), INDICATING THE 1\u20133 GROUP IS THE ACTIVE ONE \u2014 CONSISTENT WITH RIGHT-HAND IMAGERY.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 171,
+    "total_tokens": 316,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 96,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_10",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (\u22122.08, \u22121.94, \u22121.70) SHOW CONSISTENTLY HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (\u22122.53, \u22122.16, \u22122.16), INDICATING THE 1\u20133 GROUP IS THE ACTIVE HAND CLASS \u2014 LEFT.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 184,
+    "total_tokens": 329,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 115,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R08_11",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (Z \u2248 \u22121.2 TO \u22121.8) SHOW CLEARLY HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (Z \u2248 \u22122.1 TO \u22122.7), INDICATING THE PATTERN ASSOCIATED WITH THE LEFT-HAND IMAGERY.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 171,
+    "total_tokens": 316,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 111,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (Z \u2248 \u22122.27, \u22122.52, \u22122.29) SHOW CONSISTENTLY HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (Z \u2248 \u22122.91, \u22122.60, \u22122.29), INDICATING THE HAND ASSOCIATED WITH COMPONENTS 1\u20133 WAS THE ONE IMAGINED.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 201,
+    "total_tokens": 346,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 126,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (MEAN \u2248 \u22121.97) ARE CLEARLY MORE ACTIVE THAN COMPONENTS 4\u20136 (MEAN \u2248 \u22122.41), INDICATING THE HAND ASSOCIATED WITH THE FIRST COMPONENT GROUP \u2014 LEFT.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 138,
+    "total_tokens": 283,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 88,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_2",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 282,
+    "completion_tokens": 137,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 134
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 134
+    }
+   }
+  },
+  {
+   "id": "S102R12_3",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"RISE WITH ONE HAND\" GROUP) SHOW CONSISTENTLY HIGHER LOG-VARIANCES (MEAN \u2248 \u22122.02) THAN COMPONENTS 4\u20136 (MEAN \u2248 \u22122.25), INDICATING THE IMAGERY ENGAGED THE HAND ASSOCIATED WITH COMPONENTS 1\u20133 \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 138,
+    "total_tokens": 283,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 70,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_4",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "**RIGHT**\n\nCOMPONENTS 4\u20136 (THE ONES THAT RISE WITH THE OTHER HAND) SHOW CONSISTENTLY HIGHER LOG-VARIANCE THAN COMPONENTS 1\u20133, INDICATING THE IMAGINED FIST SQUEEZE WAS THE HAND DRIVING COMPONENTS 4\u20136 \u2014 THE RIGHT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 154,
+    "total_tokens": 299,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 102,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (MEAN \u2248 \u22121.97) ARE CONSISTENTLY HIGHER THAN COMPONENTS 4\u20136 (MEAN \u2248 \u22122.25), WITH COMPONENT 4 (\u22122.52) SHOWING THE STRONGEST SUPPRESSION. SINCE COMPONENTS 1\u20133 RISE WITH ONE HAND AND THEY SHOW THE RELATIVELY ELEVATED LOG-VARIANCE HERE, THE IMAGINED SQUEEZE IS THE LEFT FIST.",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 387,
+    "completion_tokens": 242,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 161
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 161
+    }
+   }
+  },
+  {
+   "id": "S102R12_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (Z \u2248 \u22121.8 TO \u22122.0) SHOW HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (Z \u2248 \u22122.1 TO \u22122.5), INDICATING THE PATTERN ASSOCIATED WITH THE FIRST HAND GROUP \u2014 LEFT.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 153,
+    "total_tokens": 298,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 92,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 218,
+    "completion_tokens": 73,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 70
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 70
+    }
+   }
+  },
+  {
+   "id": "S102R12_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 238,
+    "completion_tokens": 93,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 90
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 90
+    }
+   }
+  },
+  {
+   "id": "S102R12_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE ONES THAT RISE WITH ONE HAND) SHOW CLEARLY HIGHER LOG-VARIANCE (\u2248 \u22121.7 TO \u22121.85) THAN COMPONENTS 4\u20136 (\u2248 \u22121.8 TO \u22122.34), INDICATING THE CLASS-1 PATTERN IS ACTIVE \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 137,
+    "total_tokens": 282,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 69,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_10",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (Z \u2248 \u22121.4 TO \u22121.7) SHOW CLEARLY HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (Z \u2248 \u22121.7 TO \u22122.3), INDICATING THE 1\u20133 GROUP IS THE ACTIVE HAND CLASS \u2014 THE LEFT FIST.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 163,
+    "total_tokens": 308,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 96,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S102R12_11",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"RISING\" GROUP) HAVE CONSISTENTLY HIGHER LOG-VARIANCE Z-SCORES (MEAN \u2248 \u22121.78) THAN COMPONENTS 4\u20136 (MEAN \u2248 \u22122.06), INDICATING THE HAND THEY ENCODE WAS THE ONE IMAGINED.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 224,
+    "total_tokens": 369,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 164,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 SHOW A CONSISTENT, STRONG ELEVATION (Z \u2248 +1.3), WHILE COMPONENTS 4\u20136 ARE WEAKER AND INCONSISTENT \u2014 SO THE \"1\u20133\" PATTERN (ASSOCIATED WITH THE LEFT HAND) IS THE ACTIVE ONE.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 144,
+    "total_tokens": 289,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 88,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 SHOW CLEARLY HIGHER ACTIVATION (SUM \u2248 +3.71) THAN COMPONENTS 4\u20136 (SUM \u2248 +2.46), INDICATING THE CLASS-1 HAND \u2014 THE LEFT FIST \u2014 WAS THE ONE IMAGINED.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 131,
+    "total_tokens": 276,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 77,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nTHE FIRST THREE COMPONENTS (SUM \u2248 +3.96) SHOW CLEARLY STRONGER ACTIVATION THAN COMPONENTS 4\u20136 (SUM \u2248 +2.43), AND BY CONVENTION THE LEADING CSP COMPONENTS CORRESPOND TO THE FIRST (LEFT-HAND) CLASS.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 163,
+    "total_tokens": 308,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 109,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE GROUP THAT RISES WITH THE FIRST CLASS, CONVENTIONALLY THE LEFT HAND) SHOW CLEARLY HIGHER ACTIVATION (SUM \u2248 +3.46) THAN COMPONENTS 4\u20136 (SUM \u2248 +2.39), INDICATING A LEFT-HAND MOTOR IMAGERY PATTERN.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 151,
+    "total_tokens": 296,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 89,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_4",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"ONE HAND\" GROUP) SHOW CLEARLY ELEVATED LOG-VARIANCES (+1.48, +2.29, +1.34), DOMINATING COMPONENTS 4\u20136 \u2014 INDICATING THE IMAGINED FIST SQUEEZE WAS THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 105,
+    "total_tokens": 250,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 49,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 217,
+    "completion_tokens": 72,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 69
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 69
+    }
+   }
+  },
+  {
+   "id": "S103R04_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 187,
+    "completion_tokens": 42,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 39
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 39
+    }
+   }
+  },
+  {
+   "id": "S103R04_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nTHE HIGH-VARIANCE GROUP (COMPONENTS 1\u20133: +1.63, +1.69, +1.02, SUM \u2248 4.34) DOMINATES OVER COMPONENTS 4\u20136 (SUM \u2248 2.79), AND BY CONVENTION THE FIRST CSP FILTER SET CORRESPONDS TO THE LEFT-HAND CLASS.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 215,
+    "total_tokens": 360,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 144,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_8",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "**RIGHT**\n\nTHE HIGH Z-SCORES IN COMPONENTS 1\u20133 (+2.32, +0.78, +1.40) DOMINATE OVER COMPONENTS 4\u20136, INDICATING THE CLASS ASSOCIATED WITH THE FIRST COMPONENT SET \u2014 THE RIGHT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 119,
+    "total_tokens": 264,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 66,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R04_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 261,
+    "completion_tokens": 116,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 113
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 113
+    }
+   }
+  },
+  {
+   "id": "S103R04_10",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 213,
+    "completion_tokens": 68,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 65
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 65
+    }
+   }
+  },
+  {
+   "id": "S103R04_11",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 247,
+    "completion_tokens": 102,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 99
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 99
+    }
+   }
+  },
+  {
+   "id": "S103R08_0",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 245,
+    "completion_tokens": 100,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 97
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 97
+    }
+   }
+  },
+  {
+   "id": "S103R08_1",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 212,
+    "completion_tokens": 67,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 64
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 64
+    }
+   }
+  },
+  {
+   "id": "S103R08_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE GROUP THAT RISES WITH ONE HAND) SHOW CLEARLY HIGHER LOG-VARIANCE (+1.41, +1.40, +1.04) THAN COMPONENTS 4\u20136 (+0.51, +1.08, +0.40), INDICATING THE IMAGINED HAND WAS THE ONE ASSOCIATED WITH COMPONENTS 1\u20133: LEFT.",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 451,
+    "completion_tokens": 306,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 228
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 228
+    }
+   }
+  },
+  {
+   "id": "S103R08_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE LEFT-HAND GROUP) SHOW CLEARLY HIGHER Z-SCORES (+1.89, +1.20, +1.11) THAN COMPONENTS 4\u20136 (+0.63, +0.94, +0.29), INDICATING THE IMAGINED SQUEEZE WAS THE LEFT FIST.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 125,
+    "total_tokens": 270,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 58,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R08_4",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT** \u2014 COMPONENTS 1\u20133 (THE LEFT-HAND GROUP) SHOW CLEARLY HIGHER LOG-VARIANCE (SUM \u2248 6.5) THAN COMPONENTS 4\u20136 (\u2248 3.2).",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 126,
+    "total_tokens": 271,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 81,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R08_5",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE GROUP THAT RISES WITH ONE HAND) SHOW CLEARLY HIGHER LOG-VARIANCE (+2.09, +1.08, +1.20) THAN COMPONENTS 4\u20136 (+0.75, +1.25, +0.39), INDICATING THE IMAGINED FIST SQUEEZE CORRESPONDS TO THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 123,
+    "total_tokens": 268,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 51,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R08_6",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 238,
+    "completion_tokens": 93,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 90
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 90
+    }
+   }
+  },
+  {
+   "id": "S103R08_7",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "**RIGHT** \u2014 COMPONENTS 1\u20133 (THE GROUP THAT RISES WITH ONE HAND) SHOW CLEARLY HIGHER Z-SCORES (SUM \u2248 5.27) THAN COMPONENTS 4\u20136 (SUM \u2248 2.95), INDICATING THE IMAGINED SQUEEZE WAS WITH THE RIGHT FIST.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 166,
+    "total_tokens": 311,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 106,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R08_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE ONES THAT RISE WITH ONE HAND) SHOW CLEARLY HIGHER LOG-VARIANCE (+1.51, +0.85, +1.12) THAN COMPONENTS 4\u20136 (+0.56, +0.94, +0.52), INDICATING THE IMAGINED FIST SQUEEZE WAS THE HAND ASSOCIATED WITH COMPONENTS 1\u20133 \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 140,
+    "total_tokens": 285,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 59,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R08_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 62,
+    "total_tokens": 207,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 57,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R08_10",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT** \u2014 COMPONENTS 1\u20133 (SUM \u2248 3.77) SHOW CLEARLY HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (SUM \u2248 2.27), INDICATING THE CLASS-1 HAND, LEFT.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 126,
+    "total_tokens": 271,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 76,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R08_11",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nTHE COMPONENTS 1\u20133 (WHICH RISE WITH ONE HAND) SHOW CLEARLY HIGHER ACTIVATION (SUM \u2248 +4.95) THAN COMPONENTS 4\u20136 (SUM \u2248 +2.58), INDICATING THE IMAGINED FIST SQUEEZE CORRESPONDS TO THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 153,
+    "total_tokens": 298,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 96,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_0",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 215,
+    "completion_tokens": 70,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 67
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 67
+    }
+   }
+  },
+  {
+   "id": "S103R12_1",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE ONES THAT RISE WITH THE LEFT HAND) SHOW CLEARLY HIGHER Z-SCORES (+1.45, +0.70, +0.72) THAN COMPONENTS 4\u20136 (+0.62, +0.58, +0.51), INDICATING LEFT-HAND MOTOR IMAGERY.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 169,
+    "total_tokens": 314,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 101,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_2",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"ONE HAND\" GROUP) SHOW CLEARLY HIGHER LOG-VARIANCE (SUM \u2248 +3.18) THAN COMPONENTS 4\u20136 (SUM \u2248 +1.31), INDICATING THE HAND ASSOCIATED WITH COMPONENTS 1\u20133 \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 133,
+    "total_tokens": 278,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 70,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_3",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 34,
+    "total_tokens": 179,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 31,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_4",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"LEFT-HAND\" GROUP) SHOW CLEARLY HIGHER ACTIVATION (SUM \u2248 +4.97) THAN COMPONENTS 4\u20136 (SUM \u2248 +2.79), INDICATING STRONGER MOTOR IMAGERY CONSISTENT WITH THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 139,
+    "total_tokens": 284,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 83,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 267,
+    "completion_tokens": 122,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 119
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 119
+    }
+   }
+  },
+  {
+   "id": "S103R12_6",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 57,
+    "total_tokens": 202,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 54,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_7",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nTHE HIGH-VARIANCE COMPONENTS (1\u20133, SUMMING TO +5.75) DOMINATE OVER COMPONENTS 4\u20136 (+3.24), INDICATING THE HAND ASSOCIATED WITH COMPONENTS 1\u20133 WAS IMAGINED \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 183,
+    "total_tokens": 328,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 131,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"LEFT-HAND\" CSP FILTERS) SHOW CLEARLY ELEVATED LOG-VARIANCE (+1.93, +1.71, +1.17) COMPARED TO COMPONENTS 4\u20136 (+0.85 TO +0.97), INDICATING THE IMAGINED FIST SQUEEZE WAS THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 102,
+    "total_tokens": 247,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 35,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nTHE FIRST CSP GROUP (COMPONENTS 1\u20133) SHOWS CLEARLY HIGHER ACTIVATION (SUM \u2248 +5.37) THAN THE SECOND GROUP (COMPONENTS 4\u20136, SUM \u2248 +3.66), INDICATING THE IMAGERY CORRESPONDS TO THE HAND ENCODED BY COMPONENTS 1\u20133 \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 179,
+    "total_tokens": 324,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 112,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S103R12_10",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 222,
+    "completion_tokens": 77,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 74
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 74
+    }
+   }
+  },
+  {
+   "id": "S103R12_11",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE GROUP THAT RISES WITH ONE HAND) SHOW CLEARLY HIGHER LOG-VARIANCE Z-SCORES (+2.23, +1.72, +1.32) THAN COMPONENTS 4\u20136 (+0.89, +1.19, +0.94), INDICATING THE IMAGERY CLASS ASSOCIATED WITH COMPONENTS 1\u20133 \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 140,
+    "total_tokens": 285,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 60,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_0",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "**RIGHT**\n\nCOMPONENTS 4\u20136 SHOW THE HIGHER LOG-VARIANCES (\u22120.72, \u22120.03, \u22120.71 VS. ~\u22120.3 FOR COMPONENTS 1\u20133), INDICATING THE IMAGINED MOVEMENT CORRESPONDS TO THE HAND THOSE COMPONENTS RISE WITH \u2014 THE RIGHT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 227,
+    "total_tokens": 372,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 165,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 215,
+    "completion_tokens": 70,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 67
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 67
+    }
+   }
+  },
+  {
+   "id": "S104R04_2",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "**RIGHT**\n\nCOMPONENTS 4\u20136 (THE GROUP THAT RISES WITH THE OTHER HAND) SHOW THE STRONGEST, MOST CONSISTENT DEVIATION (Z \u2248 \u22120.73, \u22120.32, \u22120.40), WHILE COMPONENTS 1\u20133 HOVER NEAR ZERO \u2014 INDICATING THE IMAGINED SQUEEZE ENGAGED THE HAND ASSOCIATED WITH THE 4\u20136 CSP PATTERN, I.E., THE RIGHT FIST.",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 399,
+    "completion_tokens": 254,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 174
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 174
+    }
+   }
+  },
+  {
+   "id": "S104R04_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"ONE HAND\" GROUP) SHOW CONSISTENTLY HIGHER LOG-VARIANCES (\u22120.23, +0.13, \u22120.31) THAN COMPONENTS 4\u20136 (\u22120.73, \u22120.29, \u22120.38), INDICATING THE 1\u20133 PATTERN IS ACTIVE \u2014 CORRESPONDING TO THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 132,
+    "total_tokens": 277,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 54,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_4",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT** \u2014 COMPONENTS 1\u20133 (THE \"LEFT-HAND\" GROUP) SHOW THE HIGHER OVERALL LOG-VARIANCE (SUM \u2248 \u22120.58 VS \u22121.17 FOR COMPONENTS 4\u20136), INDICATING THE IMAGINED FIST WAS THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 140,
+    "total_tokens": 285,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 85,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (MEAN \u2248 \u22120.29) SHOW CLEARLY HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (MEAN \u2248 \u22120.39), WITH THE STRONGEST SEPARATION AT COMPONENT 3 (\u22120.59) VS COMPONENT 4 (\u22120.95). SINCE COMPONENTS 1\u20133 RISE WITH ONE HAND AND THEY DOMINATE HERE, THE IMAGINED SQUEEZE WAS THE LEFT FIST.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 161,
+    "total_tokens": 306,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 74,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_6",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 70,
+    "total_tokens": 215,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 67,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_7",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nTHE FIRST-CLASS COMPONENTS (1\u20133) SHOW HIGHER LOG-VARIANCE (SUM \u2248 \u22120.98) THAN COMPONENTS 4\u20136 (SUM \u2248 \u22121.40), INDICATING THE MOTOR IMAGERY MATCHED THE CLASS DRIVING COMPONENTS 1\u20133 \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 154,
+    "total_tokens": 299,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 93,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (Z \u2248 \u22120.14, \u22120.21, \u22120.44) SHOW HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (\u22120.91, \u22120.26, \u22120.66), INDICATING THE PATTERN ASSOCIATED WITH THE FIRST CLASS \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 161,
+    "total_tokens": 306,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 92,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R04_9",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 308,
+    "completion_tokens": 163,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 160
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 160
+    }
+   }
+  },
+  {
+   "id": "S104R04_10",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 241,
+    "completion_tokens": 96,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 93
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 93
+    }
+   }
+  },
+  {
+   "id": "S104R04_11",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 329,
+    "completion_tokens": 184,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 181
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 181
+    }
+   }
+  },
+  {
+   "id": "S104R08_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (SUM \u2248 \u22122.16) SHOW HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (SUM \u2248 \u22122.68), INDICATING THE CLASS-1 HAND (LEFT) WAS IMAGINED.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 133,
+    "total_tokens": 278,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 82,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (SUM \u2248 \u22121.98) SHOW HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (SUM \u2248 \u22122.74), INDICATING THE CLASS-1 HAND (LEFT) WAS IMAGINED.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 145,
+    "total_tokens": 290,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 94,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (MEAN \u2248 \u22120.45) ARE CLEARLY MORE ACTIVE THAN COMPONENTS 4\u20136 (MEAN \u2248 \u22120.82), INDICATING THE HAND ASSOCIATED WITH THE FIRST CSP FILTER SET \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 137,
+    "total_tokens": 282,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 84,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 300,
+    "completion_tokens": 155,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 152
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 152
+    }
+   }
+  },
+  {
+   "id": "S104R08_4",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 391,
+    "completion_tokens": 246,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 243
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 243
+    }
+   }
+  },
+  {
+   "id": "S104R08_5",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (MEAN \u2248 \u22120.38) SHOW CLEARLY HIGHER LOG-VARIANCE THAN COMPONENTS 4\u20136 (MEAN \u2248 \u22120.59), INDICATING THE 1\u20133 GROUP IS ACTIVE \u2014 CONSISTENT WITH LEFT-HAND IMAGERY.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 157,
+    "total_tokens": 302,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 101,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE LEFT-RISING GROUP) SHOW RELATIVELY HIGHER LOG-VARIANCE (\u22120.16, +0.53, \u22120.59) WHILE COMPONENTS 4\u20136 (THE RIGHT-RISING GROUP) ARE STRONGLY SUPPRESSED (\u22121.06, \u22120.36, \u22120.95), INDICATING THE LEFT-HAND MOTOR IMAGERY PATTERN.",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 375,
+    "completion_tokens": 230,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 151
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 151
+    }
+   }
+  },
+  {
+   "id": "S104R08_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE \"LEFT\" GROUP) HAVE A HIGHER SUMMED LOG-VARIANCE (\u22120.86) THAN COMPONENTS 4\u20136 (\u22122.00), INDICATING THE IMAGINED SQUEEZE WAS THE LEFT FIST.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 194,
+    "total_tokens": 339,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 143,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE LEFT-HAND PATTERN) SHOW RELATIVELY HIGHER LOG-VARIANCE (SUM \u2248 \u22120.44) COMPARED TO COMPONENTS 4\u20136 (SUM \u2248 \u22121.11), INDICATING STRONGER EVENT-RELATED DESYNCHRONIZATION SUPPRESSION IN THE 4\u20136 COMPONENTS \u2014 CONSISTENT WITH LEFT-HAND MOTOR IMAGERY.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 242,
+    "total_tokens": 387,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 173,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 271,
+    "completion_tokens": 126,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 123
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 123
+    }
+   }
+  },
+  {
+   "id": "S104R08_10",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE LEFT-HAND GROUP) SHOW CONSISTENTLY LOW LOG-VARIANCE (\u22120.09, +0.01, \u22120.71), INDICATING EVENT-RELATED DESYNCHRONIZATION FROM MOTOR IMAGERY, WHILE COMPONENT 5 IN THE OTHER GROUP REMAINS ELEVATED (+0.44).",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 222,
+    "total_tokens": 367,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 160,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R08_11",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "**RIGHT** \u2014 COMPONENTS 4\u20136 (RIGHT-HAND GROUP) SHOW THE HIGHER OVERALL LOG-VARIANCE (MEAN \u2248 \u22120.28 VS \u2248 \u22120.37 FOR COMPONENTS 1\u20133), DRIVEN ESPECIALLY BY COMPONENT 4 (\u22120.84) AND COMPONENT 5 (+0.30).",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 225,
+    "total_tokens": 370,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 159,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nTHE COMPONENTS 1\u20133 (WHICH RISE WITH ONE HAND) SHOW CONSISTENTLY HIGHER LOG-VARIANCE Z-SCORES (MEAN \u2248 \u22120.20) THAN COMPONENTS 4\u20136 (MEAN \u2248 \u22120.72), INDICATING THE PATTERN ASSOCIATED WITH THE FIRST CLASS \u2014 LEFT-HAND IMAGERY.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 151,
+    "total_tokens": 296,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 87,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_1",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 291,
+    "completion_tokens": 146,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 143
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 143
+    }
+   }
+  },
+  {
+   "id": "S104R12_2",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 296,
+    "completion_tokens": 151,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 148
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 148
+    }
+   }
+  },
+  {
+   "id": "S104R12_3",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 342,
+    "completion_tokens": 197,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 194
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 194
+    }
+   }
+  },
+  {
+   "id": "S104R12_4",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (THE GROUP THAT RISES WITH ONE HAND) SHOW CLEARLY HIGHER LOG-VARIANCES (\u22120.37, \u22120.41, \u22120.67) THAN COMPONENTS 4\u20136 (\u22121.27, \u22120.52, \u22121.11), INDICATING THE IMAGERY PATTERN OF THAT HAND'S CLASS \u2014 LEFT.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 227,
+    "total_tokens": 372,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 152,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_5",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "**RIGHT**\n\nCOMPONENTS 4\u20136 SHOW THE LOWER LOG-VARIANCES (STRONGER DESYNCHRONIZATION), INDICATING THE ACTIVE HAND FOR THAT COMPONENT GROUP \u2014 THE RIGHT FIST.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 230,
+    "total_tokens": 375,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 195,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (WHICH RISE WITH ONE HAND) ARE CLEARLY MORE ACTIVE (\u2248 \u22120.14, \u22120.20, \u22120.53) THAN COMPONENTS 4\u20136 (\u2248 \u22121.11, \u22120.30, \u22121.06), WHICH ARE STRONGLY SUPPRESSED \u2014 INDICATING THE IMAGERY DROVE THE 1\u20133 PATTERN, I.E., THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 214,
+    "total_tokens": 359,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 130,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (MEAN \u2248 \u22120.34) ARE CLEARLY MORE ACTIVE THAN COMPONENTS 4\u20136 (MEAN \u2248 \u22120.74), INDICATING THE IMAGERY PATTERN ASSOCIATED WITH THE FIRST COMPONENT GROUP \u2014 THE LEFT HAND.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 112,
+    "total_tokens": 257,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 59,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_8",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nCOMPONENTS 1\u20133 (WHICH RISE WITH ONE HAND) SHOW CLEARLY HIGHER LOG-VARIANCES (\u22120.32, \u22120.14, \u22120.71) THAN COMPONENTS 4\u20136 (\u22121.28, 0.00, \u22120.77), INDICATING THE IMAGERY BELONGS TO THE HAND ASSOCIATED WITH COMPONENTS 1\u20133.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 161,
+    "total_tokens": 306,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 85,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_9",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 231,
+    "completion_tokens": 86,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 83
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 83
+    }
+   }
+  },
+  {
+   "id": "S104R12_10",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "**LEFT**\n\nTHE COMPONENTS 1\u20133 (WHICH RISE TOGETHER, SUM \u2248 \u22121.20) SHOW HIGHER VARIANCE THAN COMPONENTS 4\u20136 (SUM \u2248 \u22121.93), INDICATING THE HAND ASSOCIATED WITH COMPONENTS 1\u20133 \u2014 LEFT.",
+   "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 117,
+    "total_tokens": 262,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "accepted_prediction_tokens": null,
+     "reasoning_tokens": 62,
+     "rejected_prediction_tokens": null
+    }
+   }
+  },
+  {
+   "id": "S104R12_11",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 235,
+    "completion_tokens": 90,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 87
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 87
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+data/eeg/
+assets/
+*.edf
+.env

@@ -1,0 +1,2886 @@
+{
+ "model": "accounts/renan-ym76yzx07ofs/models/eeg-csp-glm53",
+ "acc": 0.5138888888888888,
+ "rows": [
+  {
+   "id": "S101R04_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R04_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R04_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R04_3",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R04_4",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R04_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R04_6",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R04_7",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R04_8",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R04_9",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R04_10",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R04_11",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R08_0",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R08_1",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R08_2",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R08_3",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R08_4",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R08_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R08_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R08_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R08_8",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R08_9",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R08_10",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R08_11",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R12_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R12_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R12_2",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R12_3",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R12_4",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R12_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R12_6",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R12_7",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R12_8",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R12_9",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R12_10",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S101R12_11",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_0",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_1",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_2",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_4",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_10",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R04_11",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R08_0",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R08_1",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R08_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R08_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R08_4",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R08_5",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R08_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R08_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R08_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R08_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R08_10",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R08_11",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R12_0",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R12_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R12_2",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R12_3",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R12_4",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R12_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R12_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R12_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R12_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R12_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R12_10",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S102R12_11",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R04_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R04_1",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R04_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R04_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R04_4",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R04_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R04_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R04_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R04_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R04_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R04_10",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R04_11",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_0",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_1",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_3",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_4",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_5",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_6",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_7",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_10",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R08_11",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R12_0",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R12_1",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R12_2",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R12_3",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R12_4",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R12_5",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R12_6",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R12_7",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R12_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R12_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R12_10",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S103R12_11",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R04_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R04_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R04_2",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R04_3",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R04_4",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R04_5",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R04_6",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R04_7",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R04_8",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R04_9",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R04_10",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R04_11",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R08_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R08_1",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R08_2",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R08_3",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R08_4",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R08_5",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R08_6",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R08_7",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R08_8",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R08_9",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R08_10",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R08_11",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R12_0",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R12_1",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R12_2",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R12_3",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R12_4",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R12_5",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R12_6",
+   "truth": "LEFT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R12_7",
+   "truth": "RIGHT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R12_8",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R12_9",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R12_10",
+   "truth": "LEFT",
+   "guess": "RIGHT",
+   "raw": "RIGHT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  },
+  {
+   "id": "S104R12_11",
+   "truth": "RIGHT",
+   "guess": "LEFT",
+   "raw": "LEFT",
+   "usage": {
+    "prompt_tokens": 145,
+    "total_tokens": 148,
+    "completion_tokens": 3,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    },
+    "output_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   }
+  }
+ ]
+}
